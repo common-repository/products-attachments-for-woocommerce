@@ -1,0 +1,45 @@
+.pafw_attachment {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.pafw_attachment h3.pafw_attachment_name {
+    margin-bottom: 10px;
+}
+.pafw_attachment p.pafw_attachment_desc {
+    display: inline-flex;
+    padding: 10px 0;
+    margin: 0;
+}
+.pafw_attachment .date_download_attach {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pafw_attachment a.pafw_attachmentbtn, .pafw_attachment p.order_att_expire_date {
+    margin: 0 !important;
+    padding: 0;
+}
+.pafw_attachment a.pafw_expire {
+    margin: 0 !important;
+    cursor: no-drop !important;
+}
+.pafw_attachment_main_div {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+.pafw_attachment_main_div .empty_attach {
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.pafw_attachment i {
+    margin-right: 7px;
+}

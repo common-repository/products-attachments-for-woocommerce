@@ -1,0 +1,199 @@
+img.pafw_rating_div{
+	width: 100px;
+    vertical-align: middle;
+}
+div.pafw-tab-content {
+    padding: 15px;
+    background-color: white;
+    margin-top: 15px;
+    border: 1px solid #5497b4;
+    margin-bottom: 15px;
+    width: 96%;
+}
+.pafw-tab-content table.data_table {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+}
+ul.tabs {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li.tab-link {
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 500;
+    margin: 0 2px 0 0;
+    background-color: #0071a1!important;
+    color: #fff!important;
+    font-size: 13px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    width: 100px;
+    text-align: center;
+    border: 1px solid #0071a1;
+}
+li.tab-link.pafw-current {
+    background-color: #fff!important;
+    color: #0071a1!important;
+    width: 100px;
+    text-align: center;
+}
+tr.pafw_table_inner_tr {
+    display: inline-block;
+    width: 100%;
+}
+.pafw-tab-content table.data_table tr.pafw_table_inner_tr th {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+    width: 25%;
+    font-weight: 600;
+}
+.pafw-tab-content table.data_table tr.pafw_table_inner_tr td {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+    width: 60%;
+}
+.pafw-tab-content table.data_table tbody {
+    display: inline-block;
+    width: 100%;
+}
+div.pafw-tab-content h3 {
+    margin: 0;
+    padding: 10px;
+    background-color: #0071a1;
+    color: #fff;
+}
+.pafw_pdf_logo_prvw_image {
+    margin-top: 15px;
+}
+a.pafw_attachmentbtn {
+    margin: 0;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 6px 10px;
+    border: 0;
+    display: inline-block;
+    transition: all 0.5s ease-in-out;
+    color: #515151;
+    background-color: #ebe9eb;
+    border: 0;
+    font-size: 16px;
+    text-decoration: none !important;
+    text-align: center;
+}
+a.pafw_expire {
+    cursor: no-drop;
+    padding: 6px 10px;
+    display: inline-block;
+    color: #515151;
+    background-color: #ebe9eb;
+    font-size: 16px;
+    text-decoration: none !important;
+}
+img.pafw_shop_image_logo_image {
+    width: 60px;
+    height: auto;
+    margin: 10px;
+}
+a.pafw_upload_image_button.button {
+    margin-right: 10px;
+}
+.pafw_upload_image_main {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+input.custom_css_date {
+    cursor: pointer;
+}
+
+
+.attachment_setting tr.pafw_table_inner_tr th {
+    vertical-align: top;
+    display: inline-block;
+    width: 25%;
+    text-align: left;
+}
+.attachment_setting tr.pafw_table_inner_tr td {
+    vertical-align: top;
+    display: inline-block;
+    width: 65%;
+    text-align: left;
+}
+.attachment_setting tr.pafw_table_inner_tr {
+    display: inline-block;
+    width: 100%;
+    margin: 15px 0;
+}
+.attachment_setting {
+    display: inline-block;
+    width: 100%;
+}
+.attachment_setting table.data_table {
+    padding: 10px;
+}
+.attachment_setting tr.pafw_table_inner_tr th label {
+    padding-left: 10px;
+}
+.product_attachment_main {
+    display: inline-block;
+    width: 100%;
+}
+span.product_attachment_label {
+    display: inline-block;
+    width: 15%;
+}
+span.product_attachment_select_box {
+    display: inline-block;
+    width: 80%;
+}
+
+h2.pafw_attachment_head_on_order_page {
+    font-size: 21px !important;
+    margin: 0;
+    padding: 5px 0 !important;
+    line-height: 1.3 !important;
+}
+.pafw_attachment_main_div {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+}
+.pafw_attachment {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.date_download_attach {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.pafw_attachment p.pafw_attachment_desc, .pafw_attachment h3.pafw_attachment_name, .pafw_attachment p.order_att_expire_date {
+    margin: 5px 0;
+}
+a.pafw_expire.button {
+    cursor: no-drop;
+    opacity: 0.6;
+}
+.empty_attach {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.pafw_attachment i {
+    margin-right: 7px;
+}
+p.pafw_discription {
+    font-size: 13px;
+    font-style: italic;
+    margin: 5px;
+}
